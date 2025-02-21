@@ -33,7 +33,7 @@ Along with three main tables there are two additional tables created by measures
   <rn>
   
 
-  This chart shows sales by each month for the selected year with respect to the Gross Profit Margin %. Total sales by each month which is in the columns shows the sales trand over the year and the line chart tells the Percentage of gross profit margin the each month sales.
+  This chart shows sales by each month for the selected year with respect to the Gross Profit Margin. Total sales by each month which is in the columns shows the sales trand over the year and the line chart tells the Percentage of gross profit margin the each month sales.
   ## Water Fall Chart 
   ![water fall chart](https://github.com/Lovemann1/Sales_Perf._Power_BI/blob/main/Assets/Sales%20Comparison%20From%20last%20Year.png?raw=true)
   
@@ -49,15 +49,18 @@ Along with three main tables there are two additional tables created by measures
   
   This charts give you the countries which has the highest sales droping from last year sale. From this chart you can easily find the countries where you did really good last year but not so good this year 
 
-  # Observations
-  - China sales drop half of million in 2023 and third/forth of million in just four months of the 2024.
-  - Not only sales is decreasing over the years but the profit margin is also decreasing.
-  - Large size plants often have high gross profit margin.
+  # Observations And Recommendations
+
+  - China sales drop half of million in 2023 and third/forth of million in just four months of the 2024. This shows that china has huge potential and by finding the reasons of these sales drop and by working on it we can enhance the sales 
+  - Not only sales is decreasing over the years but the profit margin is also decreasing. This is a big consern because we are not only selling less quantioy but also getting less profit from every sales.
+  - Large size plants often have high gross profit margin. But the sales of large size plants are not consistent. Finding the pattern in the sales of large size plants can help in bust up the sales and the gross profit.
 # Skills I used 
 - Data Preparation & Cleaning:- Load the data from excel and clean it in power query.
 - Data Modeling :- Make a realtionship between the dim tables and fact tables.
 - Dax Functions:- Use measures, calculated column and create a calendar table for comparison visualisation.
 - Visualizations :- Create multiple charts for better visualizations and understading.
+# Conclusion 
+In this project, I designed a Power BI deshboard to analyze sales performance. With the help of it I was able to uncover key insights that support data-driven decision-making.
   
   
 
